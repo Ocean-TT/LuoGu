@@ -11,5 +11,6 @@ def main():
                 dp[j] = min(dp[j], dp[j-information[i]] - information[i])
     print(dp[V])
 
+
 if __name__ == '__main__':
     main()
