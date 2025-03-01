@@ -8,7 +8,7 @@ def main():
         if k != d:
             k += 1
         if k >= len(group):
-            group.extend([[] for _ in range(k-len(group) + 1)])
+            group.extend([[] for _ in range(k-len(group) + 1)])  # 动态扩展数组
         group[k].append([w, v])
     for i in range(1, len(group), +1):
         for j in range(m, -1, -1):
