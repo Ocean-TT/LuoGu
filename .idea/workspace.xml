@@ -4,7 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="fa7119cc-7358-4518-b1e8-d47e89f14f88" name="更改" comment="text" />
+    <list default="true" id="fa7119cc-7358-4518-b1e8-d47e89f14f88" name="更改" comment="2025.3.4 区间背包问题，递归——记忆化搜索——动态规划dp">
+      <change afterPath="$PROJECT_DIR$/新手动态规划合集/AT_chokudai_S001_h LIS.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/新手动态规划合集/P1203 [USACO1.1] 坏掉的项链 Broken Necklace.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/新手动态规划合集/P2858 [USACO06FEB] Treats for the Cows.py" beforeDir="false" afterPath="$PROJECT_DIR$/新手动态规划合集/P2858 [USACO06FEB] Treats for the Cows.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -20,6 +25,9 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/../../../../../../Program Files/Python311/Lib/urllib/parse.py" root0="SKIP_INSPECTION" />
+  </component>
   <component name="ProjectColorInfo">{
   &quot;associatedIndex&quot;: 6
 }</component>
@@ -32,24 +40,38 @@
     <option name="openDirectoriesWithSingleClick" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;Python.P1003 [NOIP 2011 提高组] 铺地毯.executor&quot;: &quot;Run&quot;,
-    &quot;Python.P1067 [NOIP 2009 普及组] 多项式输出.executor&quot;: &quot;Run&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.pluginManager&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "Notification.DisplayName-DoNotAsk-Material Theme Notifications": "Material theme UI notifications",
+    "Notification.DoNotAsk-Material Theme Notifications": "true",
+    "Python.AT_chokudai_S001_h LIS.executor": "Debug",
+    "Python.P1003 [NOIP 2011 提高组] 铺地毯.executor": "Run",
+    "Python.P1048 [NOIP 2005 普及组] 采药.executor": "Run",
+    "Python.P1049 [NOIP 2001 普及组] 装箱问题.executor": "Debug",
+    "Python.P1060 [NOIP 2006 普及组] 开心的金明.executor": "Debug",
+    "Python.P1067 [NOIP 2009 普及组] 多项式输出.executor": "Run",
+    "Python.P1203 [USACO1.1] 坏掉的项链 Broken Necklace.executor": "Debug",
+    "Python.P1359 租用游艇.executor": "Debug",
+    "Python.P1507 NASA的食物计划.executor": "Run",
+    "Python.P1757 通天之分组背包.executor": "Run",
+    "Python.P1802 5 倍经验日.executor": "Run",
+    "Python.P1832 A+B Problem（再升级）.executor": "Debug",
+    "Python.P2858 [USACO06FEB] Treats for the Cows.executor": "Run",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "git-widget-placeholder": "master",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "debugger.dataViews.python.type.renderers",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\tanghaiyang\Desktop\Code\Python\LuoGu\能力提升综合题单Part2 基础算法" />
       <recent name="C:\Users\tanghaiyang\Desktop\Code\Python\LuoGu" />
     </key>
   </component>
@@ -75,6 +97,19 @@
       <workItem from="1740631297106" duration="748000" />
       <workItem from="1740632055618" duration="2424000" />
       <workItem from="1740634499847" duration="68000" />
+      <workItem from="1740652064964" duration="2908000" />
+      <workItem from="1740656282284" duration="2586000" />
+      <workItem from="1740668723892" duration="156000" />
+      <workItem from="1740669024699" duration="3473000" />
+      <workItem from="1740731651036" duration="5913000" />
+      <workItem from="1740741799548" duration="1960000" />
+      <workItem from="1740758175978" duration="1964000" />
+      <workItem from="1740802741977" duration="16855000" />
+      <workItem from="1740825482240" duration="6362000" />
+      <workItem from="1740885608775" duration="10187000" />
+      <workItem from="1740923982614" duration="28000" />
+      <workItem from="1740972874883" duration="2322000" />
+      <workItem from="1741062928133" duration="6248000" />
     </task>
     <task id="LOCAL-00001" summary="1">
       <option name="closed" value="true" />
@@ -108,20 +143,221 @@
       <option name="project" value="LOCAL" />
       <updated>1740634563248</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="文件分类">
+      <option name="closed" value="true" />
+      <created>1740643626828</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1740643626828</updated>
+    </task>
+    <task id="LOCAL-00006" summary="文件分类">
+      <option name="closed" value="true" />
+      <created>1740643669707</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1740643669707</updated>
+    </task>
+    <task id="LOCAL-00007" summary="动态规划第一题">
+      <option name="closed" value="true" />
+      <created>1740647258234</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1740647258234</updated>
+    </task>
+    <task id="LOCAL-00008" summary="动态规划第一题">
+      <option name="closed" value="true" />
+      <created>1740668767074</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1740668767074</updated>
+    </task>
+    <task id="LOCAL-00009" summary="5倍经验日">
+      <option name="closed" value="true" />
+      <created>1740669047682</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1740669047682</updated>
+    </task>
+    <task id="LOCAL-00010" summary="5倍经验日">
+      <option name="closed" value="true" />
+      <created>1740669275521</created>
+      <option name="number" value="00010" />
+      <option name="presentableId" value="LOCAL-00010" />
+      <option name="project" value="LOCAL" />
+      <updated>1740669275521</updated>
+    </task>
+    <task id="LOCAL-00011" summary="01背包问题">
+      <option name="closed" value="true" />
+      <created>1740737268069</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1740737268069</updated>
+    </task>
+    <task id="LOCAL-00012" summary="01背包问题">
+      <option name="closed" value="true" />
+      <created>1740738504191</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1740738504191</updated>
+    </task>
+    <task id="LOCAL-00013" summary="01背包问题 空间压缩">
+      <option name="closed" value="true" />
+      <created>1740738525136</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1740738525136</updated>
+    </task>
+    <task id="LOCAL-00014" summary="01背包问题 空间压缩">
+      <option name="closed" value="true" />
+      <created>1740742372184</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1740742372184</updated>
+    </task>
+    <task id="LOCAL-00015" summary="2.28">
+      <option name="closed" value="true" />
+      <created>1740758319398</created>
+      <option name="number" value="00015" />
+      <option name="presentableId" value="LOCAL-00015" />
+      <option name="project" value="LOCAL" />
+      <updated>1740758319398</updated>
+    </task>
+    <task id="LOCAL-00016" summary="2025.3.1 分组背包">
+      <option name="closed" value="true" />
+      <created>1740804810621</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1740804810621</updated>
+    </task>
+    <task id="LOCAL-00017" summary="2025.3.1 分组背包  （动态扩展数组）">
+      <option name="closed" value="true" />
+      <created>1740810447201</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1740810447201</updated>
+    </task>
+    <task id="LOCAL-00018" summary="2025.3.1 完全背包问题">
+      <option name="closed" value="true" />
+      <created>1740811732019</created>
+      <option name="number" value="00018" />
+      <option name="presentableId" value="LOCAL-00018" />
+      <option name="project" value="LOCAL" />
+      <updated>1740811732019</updated>
+    </task>
+    <task id="LOCAL-00019" summary="2025.3.1 01背包问题变形">
+      <option name="closed" value="true" />
+      <created>1740840427009</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1740840427009</updated>
+    </task>
+    <task id="LOCAL-00020" summary="2025.3.2 区间背包问题，待解决">
+      <option name="closed" value="true" />
+      <created>1740922571421</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1740922571421</updated>
+    </task>
+    <task id="LOCAL-00021" summary="2025.3.4 区间背包问题，递归——记忆化搜索——动态规划dp">
+      <option name="closed" value="true" />
+      <created>1741069211241</created>
+      <option name="number" value="00021" />
+      <option name="presentableId" value="LOCAL-00021" />
+      <option name="project" value="LOCAL" />
+      <updated>1741069211241</updated>
+    </task>
+    <option name="localTasksCounter" value="22" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
   </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="1" />
     <MESSAGE value="text" />
-    <option name="LAST_COMMIT_MESSAGE" value="text" />
+    <MESSAGE value="文件分类" />
+    <MESSAGE value="动态规划第一题" />
+    <MESSAGE value="5倍经验日" />
+    <MESSAGE value="01背包问题" />
+    <MESSAGE value="01背包问题 空间压缩" />
+    <MESSAGE value="2.28" />
+    <MESSAGE value="2025.3.1 分组背包" />
+    <MESSAGE value="2025.3.1 分组背包  （动态扩展数组）" />
+    <MESSAGE value="2025.3.1 完全背包问题" />
+    <MESSAGE value="2025.3.1 01背包问题变形" />
+    <MESSAGE value="2025.3.2 区间背包问题，待解决" />
+    <MESSAGE value="2025.3.4 区间背包问题，递归——记忆化搜索——动态规划dp" />
+    <option name="LAST_COMMIT_MESSAGE" value="2025.3.4 区间背包问题，递归——记忆化搜索——动态规划dp" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/新手动态规划合集/P1832 A+B Problem（再升级）.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="10" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/新手动态规划合集/P1203 [USACO1.1] 坏掉的项链 Broken Necklace.py</url>
+          <line>6</line>
+          <option name="timeStamp" value="14" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/新手动态规划合集/P1507 NASA的食物计划.py</url>
+          <line>7</line>
+          <option name="timeStamp" value="19" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/新手动态规划合集/AT_chokudai_S001_h LIS.py</url>
+          <line>4</line>
+          <option name="timeStamp" value="22" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="a" />
+      </configuration>
+    </watches-manager>
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/LuoGu$P1359_.coverage" NAME="P1359 租用游艇 覆盖结果" MODIFIED="1740647053706" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1832_A_B_Problem.coverage" NAME="P1832 A+B Problem（再升级） 覆盖结果" MODIFIED="1740811382401" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1757_.coverage" NAME="P1757 通天之分组背包 覆盖结果" MODIFIED="1740804740259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1049__NOIP_2001___.coverage" NAME="P1049 [NOIP 2001 普及组] 装箱问题 覆盖结果" MODIFIED="1740738347423" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1802_5_.coverage" NAME="P1802 5 倍经验日 覆盖结果" MODIFIED="1740736984718" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1507_NASA.coverage" NAME="P1507 NASA的食物计划 覆盖结果" MODIFIED="1740840226785" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
     <SUITE FILE_PATH="coverage/LuoGu$P1067__NOIP_2009___.coverage" NAME="P1067 [NOIP 2009 普及组] 多项式输出 覆盖结果" MODIFIED="1740634339193" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LuoGu$AT_chokudai_S001_h_LIS.coverage" NAME="AT_chokudai_S001_h LIS 覆盖结果" MODIFIED="1740972900371" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1048__NOIP_2005___.coverage" NAME="P1048 [NOIP 2005 普及组] 采药 覆盖结果" MODIFIED="1740742336648" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1203__USACO1_1___Broken_Necklace.coverage" NAME="P1203 [USACO1.1] 坏掉的项链 Broken Necklace 覆盖结果" MODIFIED="1740837686854" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
     <SUITE FILE_PATH="coverage/LuoGu$P1003__NOIP_2011___.coverage" NAME="P1003 [NOIP 2011 提高组] 铺地毯 覆盖结果" MODIFIED="1740633892235" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/LuoGu$P1060__NOIP_2006___.coverage" NAME="P1060 [NOIP 2006 普及组] 开心的金明 覆盖结果" MODIFIED="1740670279128" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
+    <SUITE FILE_PATH="coverage/LuoGu$P2858__USACO06FEB__Treats_for_the_Cows.coverage" NAME="P2858 [USACO06FEB] Treats for the Cows 覆盖结果" MODIFIED="1741068859744" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/新手动态规划合集" />
   </component>
 </project>
