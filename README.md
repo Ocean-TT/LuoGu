@@ -1,3 +1,3 @@
 Algorithm problem from LOGO.
 
-Python
+Python and C++
